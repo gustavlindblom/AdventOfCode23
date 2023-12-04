@@ -5,5 +5,5 @@ Collection of solutions for advent of code 2023. All solutions written in C# usi
 ## Run
 
 ```console
-$ dotnet run
+$ dotnet run --project Runner/Runner.csproj <day>
 ```
