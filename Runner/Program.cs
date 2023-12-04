@@ -10,7 +10,8 @@ if (args.Length == 0)
 
 Dictionary<int, IAoCSolution> days = new()
 {
-    { 1, new Day1.Day1() }
+    { 1, new Day1.Day1() },
+    { 2, new Day2.Day2() },
 };
 
 if (!int.TryParse(args[0], out int dayInput))
