@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{B6DA176E-1EAE-4D26-A21F-69E32D8747FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution files", "Solution files", "{FF304663-7153-4FAB-94B6-41572284D56E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6DA176E-1EAE-4D26-A21F-69E32D8747FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DA176E-1EAE-4D26-A21F-69E32D8747FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DA176E-1EAE-4D26-A21F-69E32D8747FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DA176E-1EAE-4D26-A21F-69E32D8747FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
