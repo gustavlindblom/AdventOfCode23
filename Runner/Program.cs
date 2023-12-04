@@ -12,6 +12,7 @@ Dictionary<int, IAoCSolution> days = new()
 {
     { 1, new Day1.Day1() },
     { 2, new Day2.Day2() },
+    { 3, new Day3.Day3() },
 };
 
 if (!int.TryParse(args[0], out int dayInput))
